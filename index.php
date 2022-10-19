@@ -63,7 +63,7 @@
                     <li class="nav-link">
                         <a href="#">
                             <i class='bx bx-pie-chart-alt icon' ></i>
-                            <span class="text nav-text">-</span>
+                            <span class="text nav-text">History Penyakit</span>
                         </a>
                     </li>
 
