@@ -23,7 +23,7 @@
 
                 <div class="text logo-text">
                     <span class="name">Sistem Pakar</span>
-                    <span class="profession">Web developr</span>
+                    <span class="profession">Web developer</span>
                 </div>
             </div>
 
